@@ -1,0 +1,33 @@
+          
+               : GEREKLİ KOMUT İSTEMCİ KODLARI :
+               ---------------------------------
+setxkbmap tr // klavyeyi tr ye çevirir.
+pwd // içinde çalıştırdığım klasörü çalıştırmaya yarar.
+ls // listelemeye yarar.
+cd // klasör değiştirmeye yarar.
+touch // klasör içine dosya oluşturmaya yarar.
+mkdir // klasör oluşturmaya yarar.
+clear // terminal temizlemeye yarar.
+cd .. // ana dosyaya geri dönmemize yarar.
+rm // kaldırma komutudur.
+rm -r komutu klasörü siler. - rm -rf // ise zorla klasörü siler.
+rm -f komutu dosyayı zorla siler.
+cp // doyayı kopyalamaya yarar.
+mv // doyayı kesmeye yada taşımaya yarar.
+sudo su // komutu ile super user a geçer root kişisine.
+root'a // geçtiğimizde çıkış yapmak için "exit" komutu kullanılır.
+cat // okuma komutu olarak kullanılır. Dosyaları okumamızı sağlar.
+nano // bir .txt dosyasının içine terminal üzerinden yazı yazmak istersek bu komunu kullanmamız gerekiyor.
+ls -la // komutu detaylı listelemeye yarar.
+ifconfig // ip adresini göstermeye yarar. Root kullanıcısında.
+passwd // kullanıcı hesabının parolasını değiştirmemizi sağlar.
+
+
+-----------------------------------------------------
+Ara notlar :
+* etc -- konfigürasyon dosyalarını konulan klasördür.
+apt,apt-get - yum - dnf // yükleme dosyalarını terminalden indirmemize yarar. 
+apt update dosyaları indirir - upt upgrade dosyaları yükler.
+apt install uygulama adı ile dosya kurulumu yapılıyor.
+-----------------------------------------------------
+
